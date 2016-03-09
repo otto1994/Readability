@@ -31,9 +31,9 @@ sp = re.split(r'@*',docText)
 
 ##################
 for j in range(0,n):
-	if sp[j] == "item1":
+    if sp[j] == "item1":
 		item1 = sp[j+1]
-	if "item1" not in sp:
+    if "item1" not in sp:
 		item1 = ""
 ##################
 for j in range(0,n):
