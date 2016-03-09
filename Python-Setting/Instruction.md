@@ -55,6 +55,26 @@
 
 ![11](https://github.com/otto1994/Readability/blob/master/figure/11.png)
 
+安裝結束後輸入`pip`若出現以下畫面代表成功
+
+![12](https://github.com/otto1994/Readability/blob/master/figure/12.png)
+
+如果又出現`invalid syntax`之類的字眼，代表我們的老朋友路徑設置先生又必須上工了
+
+首先找到`pip`所在的資料夾，預設狀態下是`Python27`>`Script`
+
+![13](https://github.com/otto1994/Readability/blob/master/figure/13.png)
+
+接著再一次 `開始`>`控制台`>`系統`>`進階系統設定`>`環境變數` 找到`PATH`後進行`編輯`，添加路徑
+
+![14](https://github.com/otto1994/Readability/blob/master/figure/14.png)
+
+重新開啟終端機後即可執行`pip`(檢驗是否設置成功請參見前面步驟)
+
+#3.套件(package)
+
+
+
 
 
 
