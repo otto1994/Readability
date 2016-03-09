@@ -22,4 +22,4 @@
 
 其中比較需要注意的重點有：
 
-1.空格、大小寫、拼字必須完全符合，否則`read10k.py`會視該`item`為不存在，比如`@Item1@`、    `@item 1@`、`ResultOfOperations`、`ResultsOfOperation`都是不合格範例()
+1.空格、大小寫、拼字必須完全符合，否則`read10k.py`會視該`item`為不存在，比如 `@item 1@`、`@Item1@`   、`ResultOfOperations`、`ResultsOfOperation`都是不合格範例()
