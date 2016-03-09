@@ -39,6 +39,10 @@
 ![7](https://github.com/otto1994/Readability/blob/master/figure/7.png)
 ![8](https://github.com/otto1994/Readability/blob/master/figure/8.png)
 
+在現有路徑的最後面打入`;+python資料夾位置`(圖中為`C:\Python27`)
+
+![9](https://github.com/otto1994/Readability/blob/master/figure/9.png)
+
 
 
 
