@@ -73,6 +73,9 @@
 
 #3.套件(package)
 
+為了運作`read10k.py`，總共有六個套件必須安裝：`regex``requests``xlwt``xlrd``xlutils`及`python-docx`
+
+
 
 
 
