@@ -49,6 +49,12 @@
 
 `pip`的用途是取得並安裝`Python`套件，首先將`Python-Setting`資料夾中的`get-pip.py`下載並放置於桌面(其實放哪裡都可以，只是為了方便)
 
+![10](https://github.com/otto1994/Readability/blob/master/figure/10.png)
+
+接著打開終端機，將工作資料夾(終端機找檔案的地方)移動到桌面(`cd Desktop`指令，cd的意思是change directory，注意 `D`大寫)，並輸入`python get-pip.py`用`Python`來取得`pip`
+
+![11](https://github.com/otto1994/Readability/blob/master/figure/11.png)
+
 
 
 
