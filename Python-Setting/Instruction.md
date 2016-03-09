@@ -18,5 +18,6 @@
 ![2](https://github.com/otto1994/Readability/blob/master/figure/2.png)
 ![3](https://github.com/otto1994/Readability/blob/master/figure/3.png)
 
-打開終端機後，輸入`python`
+打開終端機後，輸入`python`，若出現以下畫面代表`Python`主程式之安裝及設置已成功
+
 ![4](https://github.com/otto1994/Readability/blob/master/figure/4.png)
