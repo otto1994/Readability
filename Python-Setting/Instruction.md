@@ -16,3 +16,7 @@
 ![1](https://github.com/otto1994/Readability/blob/master/figure/1.jpg)
 (這是`windows`鍵)
 ![2](https://github.com/otto1994/Readability/blob/master/figure/2.png)
+![3](https://github.com/otto1994/Readability/blob/master/figure/3.png)
+
+打開終端機後，輸入`python`
+![4](https://github.com/otto1994/Readability/blob/master/figure/4.png)
