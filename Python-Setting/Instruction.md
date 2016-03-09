@@ -43,9 +43,11 @@
 
 ![9](https://github.com/otto1994/Readability/blob/master/figure/9.png)
 
-重新開啟中端機後即可執行`Python`(檢驗是否設置成功請參見前面步驟)
+重新開啟終端機後即可執行`Python`(檢驗是否設置成功請參見前面步驟)
 
 #2.pip
+
+`pip`的用途是取得並安裝`Python`套件，首先將`Python-Setting`資料夾中的`get-pip.py`下載並放置於桌面(其實放哪裡都可以，只是為了方便)
 
 
 
