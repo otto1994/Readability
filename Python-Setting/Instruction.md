@@ -73,7 +73,15 @@
 
 #3.套件(package)
 
-為了運作`read10k.py`，總共有六個套件必須安裝：`regex``requests``xlwt``xlrd``xlutils`及`python-docx`
+為了運作`read10k.py`，總共有六個套件必須安裝：`regex`、`requests`、`xlwt`、`xlrd`、`xlutils`及`python-docx`
+
+安裝套件的方法是在終端機中輸入`pip` `install` `套件名稱`(圖中即為安裝`regex`的指令)
+
+![15](https://github.com/otto1994/Readability/blob/master/figure/15.png)
+
+在安裝完前五個套件後，應該會在安裝`python-docx`套件時遭遇一些問題(紅字預警)，此時將`Python-Setting`資料夾中的`xml-3.5.0.win32-py2.7.exe`下載並安裝後(如果無法安裝，可以試試`lxml-3.5.0.win-amd64-py2.7.exe`)，再執行一次`pip install python-docx`即可看到`successful`字樣
+
+至此，環境設置部分告一段落
 
 
 
