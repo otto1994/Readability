@@ -47,7 +47,7 @@
 
 #2.pip
 
-`pip`的用途是取得並安裝`Python`套件，首先將`Python-Setting`資料夾中的`get-pip.py`下載並放置於桌面(其實放哪裡都可以，只是為了方便)(下載的方法是點擊檔案名稱，找到`raw`>右鍵`另存連結為`)
+`pip`的用途是取得並安裝`Python`套件，首先將`Python-Setting`資料夾中的`get-pip.py`下載並放置於桌面(其實放哪裡都可以，只是為了方便)
 
 ![10](https://github.com/otto1994/Readability/blob/master/figure/10.png)
 
