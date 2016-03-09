@@ -20,6 +20,7 @@ docText = '\n'.join([
 問題在於對於item的判定:如果找不到item則返回""
 '''
 
+
 n = docText.count('@')+1
 
 '''
