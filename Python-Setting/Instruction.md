@@ -26,9 +26,20 @@
 
 1.下載了主程式但是還沒點開來安裝(真蠢)
 
-2.終端機找不到`python`
+2.終端機找不到`Python`
 
-在終端機找不到`python`的情況下，我們必須對路徑進行設置
+在終端機找不到`Python`的情況下，我們必須對路徑進行設置
+
+首先，先找到`Python`所在的資料夾確認它的存在(預設上是很大方的躺在C槽)
+![5](https://github.com/otto1994/Readability/blob/master/figure/5.png)
+
+接著 `開始`>`控制台`>`系統`>`進階系統設定`>`環境變數` 找到`PATH`後進行`編輯`(不同版本的WINDOWS在位置上可能略有差異)
+
+![6](https://github.com/otto1994/Readability/blob/master/figure/6.png)
+![7](https://github.com/otto1994/Readability/blob/master/figure/7.png)
+![8](https://github.com/otto1994/Readability/blob/master/figure/8.png)
+
+
 
 
 
