@@ -5,5 +5,5 @@
 * 若`Python`尚未設置完成，可以參閱[環境設置](https://github.com/otto1994/Readability/tree/master/Python-Setting)
 * 關於`.docx`檔案內文要求的修改方式，請參閱[範例](https://github.com/otto1994/Readability/tree/master/Example)
 * 詳細版的操作說明，請參閱[操作說明](https://github.com/otto1994/Readability/blob/master/%E6%93%8D%E4%BD%9C%E8%AA%AA%E6%98%8E(%E8%A9%B3).md)
-* 關於`read10k.py`效能的測試，請參閱[測試](https://github.com/otto1994/Readability/tree/master/Test) 
+* 關於`read10k.py`效能的測試，請參閱[測試](https://github.com/otto1994/Readability/tree/master/Test)  (我目前測試的結果是跟用手貼沒有區別的，應該可以放心使用，但是歡迎進行任何形式的壓力測試，數據就...之後再放上來....)
 * 欲一次下載`Readability`資料夾中的所有資料(建議)，可以在右上角找到`Download ZIP`按鈕
