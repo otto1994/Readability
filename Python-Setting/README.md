@@ -22,7 +22,7 @@
 
 ![4](https://github.com/otto1994/Readability/blob/master/figure/4.png)
 
-如果沒有如上圖顯示`Python`版本，返回如`python is an invalid syntax` 之類的句子(這是正常狀態)，可能原因如下
+如果沒有如上圖顯示`Python`版本(這是正常狀態)，返回如`python is an invalid syntax` 之類的句子，可能原因如下
 
 1.下載了主程式但是還沒點開來安裝(真蠢)
 
