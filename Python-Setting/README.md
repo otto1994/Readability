@@ -78,7 +78,7 @@
 
 ![15](https://github.com/otto1994/Readability/blob/master/figure/15.png)
 
-在安裝完前五個套件後，應該會在安裝`python-docx`套件時遭遇一些問題(紅字預警)，此時將`Python-Setting`資料夾中的[xml-3.5.0.win32-py2.7.exe](https://pypi.python.org/packages/2.7/l/lxml/lxml-3.5.0-cp27-none-win32.whl#md5=3bcbcc9b878cb90669ef5289a1b394ae)下載並安裝後(如果無法安裝，可以試試[lxml-3.5.0.win-amd64-py2.7.exe](https://pypi.python.org/packages/2.7/l/lxml/lxml-3.5.0-cp27-none-win_amd64.whl#md5=8dd80e482dde5349e5a9ee32328ad301))，再執行一次`pip install python-docx`即可看到`successful`字樣
+在安裝完前五個套件後，應該會在安裝`python-docx`套件時遭遇一些問題(紅字預警)，此時將`Python-Setting`資料夾中的[xml-3.5.0.win32-py2.7.exe](https://pypi.python.org/packages/2.7/l/lxml/lxml-3.5.0.win32-py2.7.exe#md5=3fb7a9fb71b7d0f53881291614bd323c)下載並安裝後(如果無法安裝，可以試試[lxml-3.5.0.win-amd64-py2.7.exe](https://pypi.python.org/pypi?:action=show_md5&digest=9d0c481f78928cd9d5a6b7f9fc53edef))，再執行一次`pip install python-docx`即可看到`successful`字樣
 
 至此，環境設置部分告一段落
 
