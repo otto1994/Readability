@@ -47,7 +47,22 @@
 
 #2.pip
 
-`pip`的用途是取得並安裝`Python`套件，首先將`Python-Setting`資料夾中的`get-pip.py`下載並放置於桌面(其實放哪裡都可以，只是為了方便)
+`pip`的用途是取得並安裝`Python`套件，通常會存放在`C:\Python27\Scripts`這個資料夾
+
+
+首先找到`pip`所在的資料夾，預設狀態下是`Python27`>`Script`
+
+![13](https://github.com/otto1994/Readability/blob/master/figure/13.png)
+
+接著 `開始`>`控制台`>`系統`>`進階系統設定`>`環境變數` 找到`PATH`後進行`編輯`，添加路徑
+
+![14](https://github.com/otto1994/Readability/blob/master/figure/14.png)
+
+輸入`pip`，若出現以下畫面代表成功
+
+![12](https://github.com/otto1994/Readability/blob/master/figure/12.png)
+
+若`Python27`>`Script`沒有找到`pip`，則可以[下載](https://pip.pypa.io/en/stable/installing/) `get-pip.py`並放置於桌面(其實放哪裡都可以，只是為了方便)
 
 ![10](https://github.com/otto1994/Readability/blob/master/figure/10.png)
 
@@ -55,21 +70,8 @@
 
 ![11](https://github.com/otto1994/Readability/blob/master/figure/11.png)
 
-安裝結束後輸入`pip`若出現以下畫面代表成功
 
-![12](https://github.com/otto1994/Readability/blob/master/figure/12.png)
-
-如果又出現`invalid syntax`之類的字眼，代表我們的老朋友路徑設置先生又必須上工了
-
-首先找到`pip`所在的資料夾，預設狀態下是`Python27`>`Script`
-
-![13](https://github.com/otto1994/Readability/blob/master/figure/13.png)
-
-接著再一次 `開始`>`控制台`>`系統`>`進階系統設定`>`環境變數` 找到`PATH`後進行`編輯`，添加路徑
-
-![14](https://github.com/otto1994/Readability/blob/master/figure/14.png)
-
-重新開啟終端機後即可執行`pip`(檢驗是否設置成功請參見前面步驟)
+添加路徑後，重新開啟終端機後即可執行`pip`(檢驗是否設置成功請參見前面步驟)
 
 #3.套件(package)
 
@@ -79,7 +81,7 @@
 
 ![15](https://github.com/otto1994/Readability/blob/master/figure/15.png)
 
-在安裝完前五個套件後，應該會在安裝`python-docx`套件時遭遇一些問題(紅字預警)，此時將`Python-Setting`資料夾中的`xml-3.5.0.win32-py2.7.exe`下載並安裝後(如果無法安裝，可以試試`lxml-3.5.0.win-amd64-py2.7.exe`)，再執行一次`pip install python-docx`即可看到`successful`字樣
+在安裝完前五個套件後，應該會在安裝`python-docx`套件時遭遇一些問題(紅字預警)，此時將`Python-Setting`資料夾中的[xml-3.5.0.win32-py2.7.exe](https://pypi.python.org/packages/2.7/l/lxml/lxml-3.5.0-cp27-none-win32.whl#md5=3bcbcc9b878cb90669ef5289a1b394ae)下載並安裝後(如果無法安裝，可以試試[lxml-3.5.0.win-amd64-py2.7.exe](https://pypi.python.org/packages/2.7/l/lxml/lxml-3.5.0-cp27-none-win_amd64.whl#md5=8dd80e482dde5349e5a9ee32328ad301))，再執行一次`pip install python-docx`即可看到`successful`字樣
 
 至此，環境設置部分告一段落
 
