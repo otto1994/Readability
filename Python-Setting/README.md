@@ -49,9 +49,6 @@
 
 `pip`的用途是取得並安裝`Python`套件，通常會存放在`C:\Python27\Scripts`這個資料夾
 
-
-首先找到`pip`所在的資料夾，預設狀態下是`Python27`>`Script`
-
 ![13](https://github.com/otto1994/Readability/blob/master/figure/13.png)
 
 接著 `開始`>`控制台`>`系統`>`進階系統設定`>`環境變數` 找到`PATH`後進行`編輯`，添加路徑
